@@ -1,0 +1,1 @@
+console.log(`JS for my evernote app`)
